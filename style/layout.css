@@ -1,8 +1,8 @@
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 768px) {
   /* for desktop view */
 
   main {
-    background: green;
+    background: lightgrey;
     float: left;
     margin: 0;
     padding: 0;
@@ -39,7 +39,7 @@
   }
   
   ul{
-    background: #F4CAE0;
+    background: pink;
     width: 760px;
     height: 200;
     margin: 0;
@@ -48,7 +48,7 @@
   }
   
   li{
-    background: pink;
+    background:#F4CAE0;
     width: 190px;
     height: 250px;
     display: inline-block;
@@ -96,14 +96,14 @@
   }
   
   ul{
-    background: #F4CAE0;
+    background: pink;
     width: 480px;
     margin: 0;
     padding: 0;
   }
   
   li{
-    background: pink;
+    background: #F4CAE0;
     width: 235px;
     height: 250px;
     margin: 0px;
