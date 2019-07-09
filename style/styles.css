@@ -1,0 +1,61 @@
+body {
+  border: 5px red solid;
+}
+
+header {
+  border: 5px orange solid;
+
+  width: 960;
+  height: 100;
+  top: 0px;
+}
+
+nav {
+  border: 5px yellow solid;
+  top: 0px;
+ 
+  float: left;
+  width: 200px;
+  height: 600px;
+}
+
+main {
+  border: 5px green solid;
+  
+}
+
+#c {
+  border: 5px blue solid;
+  
+  width: 380px;
+  height: 200px;
+  display: inline-block;
+}
+
+#d{
+  border: 5px indigo solid;
+  
+  width: 380px;
+  height: 200px;
+  display: inline-block;
+}
+
+ul{
+  border: 5px violet solid;
+  
+}
+
+li{
+  border: 5px black solid;
+ 
+  width: 190px;
+  height: 250px;
+  display: inline-block;
+}
+
+footer {
+  border: 5px pink solid;
+ 
+  width: 760;
+  height: 150;
+}
