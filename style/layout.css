@@ -10,10 +10,10 @@
   
   header {
     background: #64A6BD;
-    
     width: 960px;
     height: 100px;
     top: 0px;
+    line-height: 75px;
   }
   
   nav {
@@ -22,6 +22,7 @@
     width: 200px;
     height: 600px;
     float: left;
+    line-height: 500px;
   }
   
   #c {
@@ -29,6 +30,7 @@
     width: 380px;
     height: 200px;  
     float: left;
+    line-height: 150px;
   }
   
   #d{
@@ -36,6 +38,7 @@
     width: 380px;
     height: 200px;    
     float: left;
+    line-height: 150px;
   }
   
   ul{
@@ -55,14 +58,15 @@
     margin: 0px;
     padding: 0px;
     float: left;
+    line-height: 225px;
   }
   
   footer {
     background: black;
-   
     width: 760px;
     height: 150px;
     float: left;
+    line-height: 150px;
   } 
 }
 
@@ -75,24 +79,28 @@
     width: 480px;
     height: 75px;
     top: 0px;
+    line-height: 50px;
   }
   
   nav {
     background: #90A8C3;
     width: 480px;
     height: 150px;
+    line-height: 125px;
   }
   
   #c {
     background: #ADA7C9;
     width: 480px;
     height: 125px;
+    line-height: 100px;
   }
   
   #d{
     background: #D7B9D5;
     width: 480px;
     height: 125px;
+    line-height: 100px;
   }
   
   ul{
@@ -109,11 +117,13 @@
     margin: 0px;
     padding: 0px;
     display: inline-block;
+    line-height: 200px;
   }
   
   footer {
     background: black;
     width: 480px;
     height: 80px;
+    line-height: 100px; 
   } 
 }
