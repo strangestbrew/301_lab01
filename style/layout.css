@@ -9,7 +9,7 @@
   }
   
   header {
-    background: red;
+    background: #64A6BD;
     
     width: 960px;
     height: 100px;
@@ -17,7 +17,7 @@
   }
   
   nav {
-    background: yellow;
+    background: #90A8C3;
     top: 0px;
     width: 200px;
     height: 600px;
@@ -25,21 +25,21 @@
   }
   
   #c {
-    background: blue;
+    background: #ADA7C9;
     width: 380px;
     height: 200px;  
     float: left;
   }
   
   #d{
-    background: indigo;
+    background: #D7B9D5;
     width: 380px;
     height: 200px;    
     float: left;
   }
   
   ul{
-    background: violet;
+    background: #F4CAE0;
     width: 760px;
     height: 200;
     margin: 0;
@@ -71,32 +71,32 @@
   /* for mobile view */
   
   header {
-    background: red;
+    background: #64A6BD;
     width: 480px;
     height: 75px;
     top: 0px;
   }
   
   nav {
-    background: yellow;
+    background: #90A8C3;
     width: 480px;
     height: 150px;
   }
   
   #c {
-    background: blue;
+    background: #ADA7C9;
     width: 480px;
     height: 125px;
   }
   
   #d{
-    background: indigo;
+    background: #D7B9D5;
     width: 480px;
     height: 125px;
   }
   
   ul{
-    background: violet;
+    background: #F4CAE0;
     width: 480px;
     margin: 0;
     padding: 0;
