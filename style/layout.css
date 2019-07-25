@@ -128,8 +128,8 @@
     margin: 0px;
     padding: 0px;
     line-height: 200px;
-    display: inline-grid; 
-    float: left;
+    display: flex; 
+    flex-flow: row-wrap; 
   }
   
   footer {
